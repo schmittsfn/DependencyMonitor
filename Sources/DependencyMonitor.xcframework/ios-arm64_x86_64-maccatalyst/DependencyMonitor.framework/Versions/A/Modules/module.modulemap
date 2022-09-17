@@ -1,0 +1,11 @@
+framework module DependencyMonitor {
+  umbrella header "DependencyMonitor.h"
+
+  export *
+  module * { export * }
+}
+
+module DependencyMonitor.Swift {
+    header "DependencyMonitor-Swift.h"
+    requires objc
+}

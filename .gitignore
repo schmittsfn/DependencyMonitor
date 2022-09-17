@@ -1,0 +1,9 @@
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+prebuild.log
+debug/result.log
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+/.vscode
